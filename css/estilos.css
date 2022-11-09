@@ -1,0 +1,66 @@
+body {
+    padding-top: 150px;
+    background-color: #3e3c3c;
+    color: rgb(73, 78, 81);
+    margin: auto;
+
+
+}
+
+
+.a__trash{
+    color: red;
+}
+
+
+.area-contenido {
+    padding: 40px 15px;
+}
+
+.area-entrada {
+    margin: 25px;
+
+}
+
+.texto-tarea {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.oculto {
+    display: none;
+}
+
+.area-icono-eliminacion {
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+
+.icono-eliminacion {
+    color: red;
+}
+
+.tarea-completada {
+    text-decoration: line-through;
+}
+
+.color {
+    background: rgba(100, 206, 206, 0.535);
+}
+
+.color1 {
+    background: rgba(241, 172, 231, 0.36);
+}
+
+.color2 {
+    background: rgba(0, 63, 139, 0.218);
+}
+
+.color3 {
+    background: rgba(0, 139, 7, 0.218);
+}
+.color4 {
+    color: rgb(255, 255, 255);
+}
